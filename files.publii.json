@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "18287980cc6936f7db1a293b2779567c"
+        "md5": "52345c98a2426335a35af1ecaa3ec2a0"
     },
     {
         "path": "assets",
@@ -82,52 +82,42 @@
     {
         "path": "/authors/mrw/index.html",
         "type": "file",
-        "md5": "f3ecafbaf696e577b7a2dcd633ddc106"
+        "md5": "c7cb45bd8253b8b9105db9e3805021c5"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "f9f12b219f8ff7c66c0542e9a70c5351"
+        "md5": "9af779348bf9089b842f9ed449dae354"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "ff766e5cd8ed51320e82185359b2daa9"
+        "md5": "f7fdaa18dc456a2d5720f6bf53e42684"
+    },
+    {
+        "path": "hfzy-lqran-mn-bytk-fdl-hlqt-thfyz-lqran-fy-lkwyt-wn-lyn-llns-wlftyt",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hfzy-lqran-mn-bytk-fdl-hlqt-thfyz-lqran-fy-lkwyt-wn-lyn-llns-wlftyt/index.html",
+        "type": "file",
+        "md5": "f9f1fabf3b751fc2c717dff5e0377f75"
+    },
+    {
+        "path": "hfzy-mn-bytk-wrtqy-fdl-mrkz-thfyz-lqran-fy-lkwyt-llns-wn-lyn",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hfzy-mn-bytk-wrtqy-fdl-mrkz-thfyz-lqran-fy-lkwyt-llns-wn-lyn/index.html",
+        "type": "file",
+        "md5": "a6e3fab2a467882a1861337f0495f09e"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "7c6ab3ac1a7627c46c3edac2dcfb8b7e"
-    },
-    {
-        "path": "learn-the-quran-online-a-modern-path-to-eternal-guidance",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/learn-the-quran-online-a-modern-path-to-eternal-guidance/index.html",
-        "type": "file",
-        "md5": "f536ea65f57371b6aed1380f0e66b3a7"
-    },
-    {
-        "path": "learn-the-quran-online-connect-your-heart-with-the-words-of-allah",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/learn-the-quran-online-connect-your-heart-with-the-words-of-allah/index.html",
-        "type": "file",
-        "md5": "f18fd503d1c6d82b10f86e09b5699fcb"
-    },
-    {
-        "path": "learn-the-quran-online-the-easiest-way-to-connect-with-the-words-of-allah",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/learn-the-quran-online-the-easiest-way-to-connect-with-the-words-of-allah/index.html",
-        "type": "file",
-        "md5": "58f8c2a7d8cf1f9dfd0b96c6fb2bc4e0"
+        "md5": "6b26ce4a11272d115d7bbbaffec1821e"
     },
     {
         "path": "media",
@@ -140,9 +130,9 @@
         "md5": false
     },
     {
-        "path": "/media/website/jn-lqlwb.jpg",
+        "path": "/media/website/lqran-lkrym-tlw.jpg",
         "type": "file",
-        "md5": "89f3707084d264b0f7076bcbed288e03"
+        "md5": "408fdff330a778358c5d1878a28ead71"
     },
     {
         "path": "media/website/responsive",
@@ -150,54 +140,64 @@
         "md5": false
     },
     {
-        "path": "/media/website/responsive/jn-lqlwb-2xl.jpg",
+        "path": "/media/website/responsive/lqran-lkrym-tlw-2xl.jpg",
         "type": "file",
-        "md5": "5e5738faa674aa392324522b1e5ff266"
+        "md5": "27370fab1a51d3b74f5433a980ae6f3e"
     },
     {
-        "path": "/media/website/responsive/jn-lqlwb-lg.jpg",
+        "path": "/media/website/responsive/lqran-lkrym-tlw-lg.jpg",
         "type": "file",
-        "md5": "5e5738faa674aa392324522b1e5ff266"
+        "md5": "27370fab1a51d3b74f5433a980ae6f3e"
     },
     {
-        "path": "/media/website/responsive/jn-lqlwb-md.jpg",
+        "path": "/media/website/responsive/lqran-lkrym-tlw-md.jpg",
         "type": "file",
-        "md5": "5e5738faa674aa392324522b1e5ff266"
+        "md5": "ec8676c37da28386170f0235b279dea4"
     },
     {
-        "path": "/media/website/responsive/jn-lqlwb-sm.jpg",
+        "path": "/media/website/responsive/lqran-lkrym-tlw-sm.jpg",
         "type": "file",
-        "md5": "5e5738faa674aa392324522b1e5ff266"
+        "md5": "1db3d119a7f826b2e93ad635a806cffd"
     },
     {
-        "path": "/media/website/responsive/jn-lqlwb-xl.jpg",
+        "path": "/media/website/responsive/lqran-lkrym-tlw-xl.jpg",
         "type": "file",
-        "md5": "5e5738faa674aa392324522b1e5ff266"
+        "md5": "27370fab1a51d3b74f5433a980ae6f3e"
     },
     {
-        "path": "/media/website/responsive/jn-lqlwb-xs.jpg",
+        "path": "/media/website/responsive/lqran-lkrym-tlw-xs.jpg",
         "type": "file",
-        "md5": "5e5738faa674aa392324522b1e5ff266"
+        "md5": "0d406c7bf62aafeedce596a8199d505f"
     },
     {
-        "path": "quran-class-online-learn-the-words-of-allah-from-the-comfort-of-your-home",
+        "path": "nhw-shw-ymny-mn-lmnzl-dlylk-l~-mrkz-thfyz-lqran-fy-lkwyt-llns-wn-lyn",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/quran-class-online-learn-the-words-of-allah-from-the-comfort-of-your-home/index.html",
+        "path": "/nhw-shw-ymny-mn-lmnzl-dlylk-l~-mrkz-thfyz-lqran-fy-lkwyt-llns-wn-lyn/index.html",
         "type": "file",
-        "md5": "9a5c5477eddc50d5fa9c45e56aa0f472"
+        "md5": "5573e792ac2ca25e9063ee0b81d490cd"
     },
     {
-        "path": "quran-class-online-your-gateway-to-mastering-the-words-of-allah",
+        "path": "rhl-nwr-tbd-mn-bytk-dlylk-lfdl-hlqt-thfyz-lqran-fy-lkwyt-wn-lyn",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/quran-class-online-your-gateway-to-mastering-the-words-of-allah/index.html",
+        "path": "/rhl-nwr-tbd-mn-bytk-dlylk-lfdl-hlqt-thfyz-lqran-fy-lkwyt-wn-lyn/index.html",
         "type": "file",
-        "md5": "5ccda73dac78329681259a798d9837e8"
+        "md5": "5354dfb3b67d6a03bb232c97a720b330"
+    },
+    {
+        "path": "rhltk-lrwhny-tbd-mn-bytk-fdl-mrkz-thfyz-lqran-fy-lkwyt-llns-wn-lyn",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/rhltk-lrwhny-tbd-mn-bytk-fdl-mrkz-thfyz-lqran-fy-lkwyt-llns-wn-lyn/index.html",
+        "type": "file",
+        "md5": "cac3df673de28bd0fa2cf7584eb791b0"
     },
     {
         "path": "robots.txt",
@@ -207,7 +207,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "7db7ad4ca90c8a00fef8c0b6408c9973"
+        "md5": "b914d8a89f7031d1ffab9077fe608fb4"
     },
     {
         "path": "sitemap.xsl",
@@ -222,6 +222,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "309197b0a93f77799ffe9fd0ec26b9cb"
+        "md5": "7cb445dd5e18c42681e56fc5c9c2c478"
     }
 ]
