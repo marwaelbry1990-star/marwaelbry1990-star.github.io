@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "52345c98a2426335a35af1ecaa3ec2a0"
+        "md5": "0ad040d9d2fe3e0b889d6c81d536ca76"
     },
     {
         "path": "assets",
@@ -82,42 +82,42 @@
     {
         "path": "/authors/mrw/index.html",
         "type": "file",
-        "md5": "c7cb45bd8253b8b9105db9e3805021c5"
+        "md5": "dfe8fea28d2a15655340787512cd429e"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "9af779348bf9089b842f9ed449dae354"
+        "md5": "005ff0bdbf003fb809a8d70e4b2489d8"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "f7fdaa18dc456a2d5720f6bf53e42684"
-    },
-    {
-        "path": "hfzy-lqran-mn-bytk-fdl-hlqt-thfyz-lqran-fy-lkwyt-wn-lyn-llns-wlftyt",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/hfzy-lqran-mn-bytk-fdl-hlqt-thfyz-lqran-fy-lkwyt-wn-lyn-llns-wlftyt/index.html",
-        "type": "file",
-        "md5": "f9f1fabf3b751fc2c717dff5e0377f75"
-    },
-    {
-        "path": "hfzy-mn-bytk-wrtqy-fdl-mrkz-thfyz-lqran-fy-lkwyt-llns-wn-lyn",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/hfzy-mn-bytk-wrtqy-fdl-mrkz-thfyz-lqran-fy-lkwyt-llns-wn-lyn/index.html",
-        "type": "file",
-        "md5": "a6e3fab2a467882a1861337f0495f09e"
+        "md5": "9198432086e70dc19df558a6adbb1521"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "6b26ce4a11272d115d7bbbaffec1821e"
+        "md5": "73b3e46bd16526b440f62c8b8e31d1e6"
+    },
+    {
+        "path": "learn-quran-recitation-online-a-spiritual-journey-from-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-recitation-online-a-spiritual-journey-from-home/index.html",
+        "type": "file",
+        "md5": "86b466d954cdebb3abb395333aa7ffdf"
+    },
+    {
+        "path": "learn-quran-recitation-online-the-modern-path-to-perfect-tajweed-and-spiritual-peace",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-recitation-online-the-modern-path-to-perfect-tajweed-and-spiritual-peace/index.html",
+        "type": "file",
+        "md5": "9f81f7ede09f9ec45e6f6dae3f9f5cec"
     },
     {
         "path": "media",
@@ -130,9 +130,9 @@
         "md5": false
     },
     {
-        "path": "/media/website/lqran-lkrym-tlw.jpg",
+        "path": "/media/website/mwqaa-mSHf.jpg",
         "type": "file",
-        "md5": "408fdff330a778358c5d1878a28ead71"
+        "md5": "a8992742f26a36e38fac82ce859083f0"
     },
     {
         "path": "media/website/responsive",
@@ -140,74 +140,74 @@
         "md5": false
     },
     {
-        "path": "/media/website/responsive/lqran-lkrym-tlw-2xl.jpg",
+        "path": "/media/website/responsive/mwqaa-mSHf-2xl.jpg",
         "type": "file",
-        "md5": "27370fab1a51d3b74f5433a980ae6f3e"
+        "md5": "1cf4bc2e7b82de1bcfc61aca720b17dc"
     },
     {
-        "path": "/media/website/responsive/lqran-lkrym-tlw-lg.jpg",
+        "path": "/media/website/responsive/mwqaa-mSHf-lg.jpg",
         "type": "file",
-        "md5": "27370fab1a51d3b74f5433a980ae6f3e"
+        "md5": "1cf4bc2e7b82de1bcfc61aca720b17dc"
     },
     {
-        "path": "/media/website/responsive/lqran-lkrym-tlw-md.jpg",
+        "path": "/media/website/responsive/mwqaa-mSHf-md.jpg",
         "type": "file",
-        "md5": "ec8676c37da28386170f0235b279dea4"
+        "md5": "cd4487b907be4caaa2b59256c57afcd5"
     },
     {
-        "path": "/media/website/responsive/lqran-lkrym-tlw-sm.jpg",
+        "path": "/media/website/responsive/mwqaa-mSHf-sm.jpg",
         "type": "file",
-        "md5": "1db3d119a7f826b2e93ad635a806cffd"
+        "md5": "630efcf7cfd8d27f3fcda15e79754bb1"
     },
     {
-        "path": "/media/website/responsive/lqran-lkrym-tlw-xl.jpg",
+        "path": "/media/website/responsive/mwqaa-mSHf-xl.jpg",
         "type": "file",
-        "md5": "27370fab1a51d3b74f5433a980ae6f3e"
+        "md5": "1cf4bc2e7b82de1bcfc61aca720b17dc"
     },
     {
-        "path": "/media/website/responsive/lqran-lkrym-tlw-xs.jpg",
+        "path": "/media/website/responsive/mwqaa-mSHf-xs.jpg",
         "type": "file",
-        "md5": "0d406c7bf62aafeedce596a8199d505f"
+        "md5": "d5a87cd1093575299a9d6bd2982a05bb"
     },
     {
-        "path": "nhw-shw-ymny-mn-lmnzl-dlylk-l~-mrkz-thfyz-lqran-fy-lkwyt-llns-wn-lyn",
+        "path": "online-quran-courses-learn-the-book-of-allah-from-anywhere-in-the-world",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/nhw-shw-ymny-mn-lmnzl-dlylk-l~-mrkz-thfyz-lqran-fy-lkwyt-llns-wn-lyn/index.html",
+        "path": "/online-quran-courses-learn-the-book-of-allah-from-anywhere-in-the-world/index.html",
         "type": "file",
-        "md5": "5573e792ac2ca25e9063ee0b81d490cd"
+        "md5": "ef4f8723eaf1e2de30deed1facbddc25"
     },
     {
-        "path": "rhl-nwr-tbd-mn-bytk-dlylk-lfdl-hlqt-thfyz-lqran-fy-lkwyt-wn-lyn",
+        "path": "online-quran-courses-the-modern-way-to-connect-with-the-words-of-allah",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/rhl-nwr-tbd-mn-bytk-dlylk-lfdl-hlqt-thfyz-lqran-fy-lkwyt-wn-lyn/index.html",
+        "path": "/online-quran-courses-the-modern-way-to-connect-with-the-words-of-allah/index.html",
         "type": "file",
-        "md5": "5354dfb3b67d6a03bb232c97a720b330"
+        "md5": "4b751e4d5e287ee99e3e60050c60e4d8"
     },
     {
-        "path": "rhltk-lrwhny-tbd-mn-bytk-fdl-mrkz-thfyz-lqran-fy-lkwyt-llns-wn-lyn",
+        "path": "online-quran-courses-your-complete-guide-to-learning-the-quran-effectively-online",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/rhltk-lrwhny-tbd-mn-bytk-fdl-mrkz-thfyz-lqran-fy-lkwyt-llns-wn-lyn/index.html",
+        "path": "/online-quran-courses-your-complete-guide-to-learning-the-quran-effectively-online/index.html",
         "type": "file",
-        "md5": "cac3df673de28bd0fa2cf7584eb791b0"
+        "md5": "e41474efd6be829f5a87a8019140451c"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "1f017a22f5be43b6048e898f37d30c1a"
+        "md5": "29a4e67c76645aad0683626014d6fcf2"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "b914d8a89f7031d1ffab9077fe608fb4"
+        "md5": "e1f0e9b3393d4d54aa34b2ea391309f6"
     },
     {
         "path": "sitemap.xsl",
@@ -222,6 +222,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "7cb445dd5e18c42681e56fc5c9c2c478"
+        "md5": "dd7ae5e2129bb99661307209186eef52"
     }
 ]
